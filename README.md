@@ -1,2 +1,2 @@
 # Training-IOT
-Training IOT using different micro/module/framework
+This repo will be filled with IOT procedure: HTTP, MQTT, ESPNOW, blynkIOT, etc.
